@@ -7,7 +7,7 @@ import resolveRoutes from '../utils/resolveRoutes';
 
 
 const routes = {
-    '/cientifico/':Home,
+    '/':Home,
     '/:id': Character,
     '/contact': 'Contact',
 }
